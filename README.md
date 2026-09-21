@@ -33,6 +33,8 @@ Portale/CSV  ──▶  scan  ──▶  Bewertung  ──▶  Shortlist
 ## Schnellstart
 
 Es wird nichts installiert, keine Fremdpakete, nur Python 3.11+.
+Ausführliche Anleitung inklusive Vier-Wochen-Plan für den ersten echten Test:
+[docs/LOSLEGEN.md](docs/LOSLEGEN.md).
 
 ```bash
 python3 -m tinyhaus init                 # config.json + Datenbank anlegen
@@ -89,7 +91,7 @@ Jede Teilnote steht im Klartext daneben – `zeige <key>` zeigt sie.
 | Quelle | Status |
 | --- | --- |
 | `demo` | Beispieldaten, immer verfügbar |
-| `csv` | eigene Exporte/Listen, `data/import/*.csv`, deutsche Spaltennamen |
+| `csv` | eigene Exporte/Listen, `data/import/*.csv`, deutsche Spaltennamen (Vorlage: `data/fixtures/vorlage_import.csv`) |
 | `kleinanzeigen` | HTML-Suche, robots.txt-konform, **nicht** standardmäßig aktiv |
 | `immoscout24` | offizielle API, braucht Partnervertrag |
 
@@ -145,4 +147,4 @@ tinyhaus/
   publish/      entwurf (Dateien), api (Platzhalter)
 ```
 
-Nächste Schritte: [docs/ROADMAP.md](docs/ROADMAP.md).
+Loslegen: [docs/LOSLEGEN.md](docs/LOSLEGEN.md) · Nächste Schritte: [docs/ROADMAP.md](docs/ROADMAP.md).

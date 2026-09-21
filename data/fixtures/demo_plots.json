@@ -1,0 +1,122 @@
+[
+  {
+    "source_id": "demo-001",
+    "url": "https://example.invalid/anzeige/demo-001",
+    "title": "Baugrundstück 820 m² in ruhiger Ortsrandlage",
+    "description": "Voll erschlossen, Bebauungsplan liegt vor, von privat, provisionsfrei. Strom und Wasser liegen an.",
+    "price": "44.500 € VB",
+    "location": "34633 Fuldabrück",
+    "state": "Hessen",
+    "listed_on": "2026-06-14"
+  },
+  {
+    "source_id": "demo-002",
+    "url": "https://example.invalid/anzeige/demo-002",
+    "title": "Sonniger Bauplatz 1.450 m², teilbar",
+    "description": "Nicht erschlossen, Erschließungskosten fallen an. Nach § 34 BauGB bebaubar. Privatverkauf.",
+    "price": "39.000 €",
+    "location": "17033 Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "listed_on": "2026-04-02"
+  },
+  {
+    "source_id": "demo-003",
+    "url": "https://example.invalid/anzeige/demo-003",
+    "title": "Einfamilienhaus mit großem Garten",
+    "description": "Gepflegtes Wohnhaus, 1985 gebaut, 1.100 m² Grundstück.",
+    "price": "189.000 €",
+    "location": "04680 Colditz",
+    "state": "Sachsen",
+    "listed_on": "2026-07-01"
+  },
+  {
+    "source_id": "demo-004",
+    "url": "https://example.invalid/anzeige/demo-004",
+    "title": "Ackerland 12.000 m² zu verkaufen",
+    "description": "Landwirtschaftliche Fläche, aktuell verpachtet.",
+    "price": "36.000 €",
+    "location": "39319 Jerichow",
+    "state": "Sachsen-Anhalt",
+    "listed_on": "2026-05-20"
+  },
+  {
+    "source_id": "demo-005",
+    "url": "https://example.invalid/anzeige/demo-005",
+    "title": "Bauerwartungsland 900 m² am Ortsrand",
+    "description": "Im Flächennutzungsplan als künftiges Wohngebiet vorgesehen.",
+    "price": "27.000 €",
+    "location": "66424 Homburg",
+    "state": "Saarland",
+    "listed_on": "2026-03-11"
+  },
+  {
+    "source_id": "demo-006",
+    "url": "https://example.invalid/anzeige/demo-006",
+    "title": "Wohnbaugrundstück 2.100 m² - ideal für mehrere Einheiten",
+    "description": "Erschlossen, Bebauungsplan Wohngebiet WA, Makler, Courtage 3,57%.",
+    "price": "98.000 €",
+    "location": "23936 Grevesmühlen",
+    "state": "Mecklenburg-Vorpommern",
+    "listed_on": "2026-01-25"
+  },
+  {
+    "source_id": "demo-007",
+    "url": "https://example.invalid/anzeige/demo-007",
+    "title": "Kleines Baugrundstück 240 m²",
+    "description": "Innerorts, erschlossen, von privat.",
+    "price": "21.000 €",
+    "location": "88400 Biberach",
+    "state": "Baden-Württemberg",
+    "listed_on": "2026-08-30"
+  },
+  {
+    "source_id": "demo-008",
+    "url": "https://example.invalid/anzeige/demo-008",
+    "title": "Baugrundstück 700 m² in Top-Lage",
+    "description": "Erschlossen, B-Plan vorhanden, Maklerangebot.",
+    "price": "245.000 €",
+    "location": "88662 Überlingen",
+    "state": "Baden-Württemberg",
+    "listed_on": "2026-09-05"
+  },
+  {
+    "source_id": "demo-009",
+    "url": "https://example.invalid/anzeige/demo-009",
+    "title": "Grundstück 1.020 m² unbebaut, Bauplatz",
+    "description": "Erschließung unklar, bitte bei der Gemeinde erfragen. Von privat, provisionsfrei.",
+    "price": "31.500 €",
+    "location": "34513 Waldeck",
+    "state": "Hessen",
+    "listed_on": "2026-02-08"
+  },
+  {
+    "source_id": "demo-010",
+    "url": "https://example.invalid/anzeige/demo-010",
+    "title": "Gartengrundstück 600 m² mit Laube",
+    "description": "Freizeitgrundstück, Wohnbebauung nicht zulässig.",
+    "price": "12.000 €",
+    "location": "04277 Leipzig",
+    "state": "Sachsen",
+    "listed_on": "2026-06-30"
+  },
+  {
+    "source_id": "demo-011",
+    "url": "https://example.invalid/anzeige/demo-011",
+    "title": "Baugrundstück 1.800 m², Preis auf Anfrage",
+    "description": "Erschlossen, ruhige Lage, von privat.",
+    "price": "Preis auf Anfrage",
+    "location": "17192 Waren (Müritz)",
+    "state": "Mecklenburg-Vorpommern",
+    "listed_on": "2026-07-19"
+  },
+  {
+    "source_id": "demo-012",
+    "url": "https://example.invalid/anzeige/demo-012",
+    "title": "Bauland 1.250 m² - Abrissobjekt vorhanden",
+    "description": "Altes Wohnhaus abrissreif, Grundstück voll erschlossen.",
+    "price": "55.000 €",
+    "location": "34399 Oberweser",
+    "state": "Hessen",
+    "listed_on": "2026-05-02"
+  }
+]

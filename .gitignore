@@ -1,0 +1,13 @@
+# Laufzeitdaten - enthalten Kontaktdaten von Interessenten (DSGVO!)
+data/*.db
+data/*.db-journal
+data/import/
+out/
+config.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store

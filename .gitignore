@@ -11,3 +11,14 @@ __pycache__/
 venv/
 .pytest_cache/
 .DS_Store
+
+# ---- Hausverwaltung ----------------------------------------------------
+# Echte Daten gehoeren NICHT in den Projektordner (Standard: ~/Hausverwaltung-Daten).
+# Falls doch jemand einen Datenordner hier anlegt: nie committen.
+daten/
+Hausverwaltung-Daten/
+*.db
+*.db-journal
+*.key
+# erfundene Demo-Daten: werden mit "python -m verwaltung demo" jederzeit neu erzeugt
+daten_demo/

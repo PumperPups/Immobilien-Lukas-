@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(~/Hausverwaltung-Daten/**)",
+      "Edit(~/Hausverwaltung-Daten/**)",
+      "Write(~/Hausverwaltung-Daten/**)",
+      "Read(./daten/**)",
+      "Edit(./daten/**)",
+      "Read(**/schluessel.key)",
+      "Read(**/verwaltung.db)",
+      "Read(**/bank/eingang/**)",
+      "Read(**/bank/archiv/**)"
+    ],
+    "allow": [
+      "Read(./daten_demo/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Edit|Write|MultiEdit|Grep|Glob|Bash|NotebookEdit|NotebookRead",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/datenschutz.py\" || python \"$CLAUDE_PROJECT_DIR/.claude/hooks/datenschutz.py\""
+          }
+        ]
+      }
+    ]
+  }
+}
